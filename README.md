@@ -1,2 +1,1 @@
-# UIDAI-Hackathon
-Our project proposes a secure, Aadhaar-compliant digital solution that ensures privacy, fast authentication, and seamless integration with government and private services.
+Innovative digital identity solution aligned with UIDAI standards to enable secure, privacy-preserving Aadhaar-based authentication. The system uses consent-driven data access, encryption, and scalable architecture to ensure fast verification, reduced fraud, and seamless integration with government and private digital services.
